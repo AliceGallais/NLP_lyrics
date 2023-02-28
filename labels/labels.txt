@@ -1,0 +1,5 @@
+Genre_Chanson française
+Genre_Pop
+Genre_Rap
+Genre_Reggae
+Genre_Rock
